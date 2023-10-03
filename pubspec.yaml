@@ -14,7 +14,7 @@ dependencies:
   arcade:
     git:
       url: git@github.com:ishafiul/arcade.git
-      ref: main
+      ref: fix/process_signal_watchers_windows
       path: packages/arcade
 
 dev_dependencies:

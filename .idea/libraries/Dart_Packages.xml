@@ -26,7 +26,7 @@
         <entry key="arcade">
           <value>
             <list>
-              <option value="$USER_HOME$/AppData/Local/Pub/Cache/git/arcade-dcb4a481f90ca12f4fe57a21b29ceabf42fe590d/packages/arcade/lib" />
+              <option value="$USER_HOME$/AppData/Local/Pub/Cache/git/arcade-b4400d9cc16a675f5616e2ffc6022f6703ed1ba0/packages/arcade/lib" />
             </list>
           </value>
         </entry>
@@ -516,7 +516,7 @@
       </option>
     </properties>
     <CLASSES>
-      <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/git/arcade-dcb4a481f90ca12f4fe57a21b29ceabf42fe590d/packages/arcade/lib" />
+      <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/git/arcade-b4400d9cc16a675f5616e2ffc6022f6703ed1ba0/packages/arcade/lib" />
       <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/_fe_analyzer_shared-64.0.0/lib" />
       <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/analyzer-6.2.0/lib" />
       <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/ansi_styles-0.3.2+1/lib" />

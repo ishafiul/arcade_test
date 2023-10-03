@@ -29,8 +29,8 @@ packages:
     dependency: "direct main"
     description:
       path: "packages/arcade"
-      ref: main
-      resolved-ref: dcb4a481f90ca12f4fe57a21b29ceabf42fe590d
+      ref: "fix/process_signal_watchers_windows"
+      resolved-ref: b4400d9cc16a675f5616e2ffc6022f6703ed1ba0
       url: "git@github.com:ishafiul/arcade.git"
     source: git
     version: "0.1.1"
@@ -587,4 +587,4 @@ packages:
     source: hosted
     version: "3.1.2"
 sdks:
-  dart: ">=3.1.3 <4.0.0"
+  dart: ">=3.0.5 <4.0.0"

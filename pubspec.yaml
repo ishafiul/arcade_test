@@ -13,9 +13,10 @@ dependencies:
   injectable: ^2.1.2
   arcade:
     git:
-      url: git@github.com:ishafiul/arcade.git
-      ref: fix/process_signal_watchers_windows
+      url: https://github.com/dartarcade/arcade
+      ref: main
       path: packages/arcade
+  cli_util: ^0.4.0
 
 dev_dependencies:
   lints: ^2.0.0

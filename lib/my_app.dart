@@ -7,6 +7,6 @@ class Root {
     Route.get('/').handle(home);
   }
   Future home(RequestContext context) async {
-    return 'hello';
+    return 'ssxasd';
   }
 }

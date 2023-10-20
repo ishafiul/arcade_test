@@ -3,5 +3,5 @@ import 'package:my_app/injector.dart';
 
 Future<void> main() {
   // We start the server on port 8080.
-  return runServer(port: 3001, init: configureDependencies);
+  return runServer(port: 8080, init: configureDependencies);
 }

@@ -1,0 +1,8 @@
+version: '2.19'
+services:
+  app:
+    container_name: arcade_test_app
+    build: .
+    ports:
+      - '8081:8080'
+

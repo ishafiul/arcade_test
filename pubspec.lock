@@ -29,9 +29,9 @@ packages:
     dependency: "direct main"
     description:
       path: "packages/arcade"
-      ref: "fix/process_signal_watchers_windows"
-      resolved-ref: b4400d9cc16a675f5616e2ffc6022f6703ed1ba0
-      url: "git@github.com:ishafiul/arcade.git"
+      ref: main
+      resolved-ref: f41d227b9370c948569ceec29cf932a1a843bf92
+      url: "https://github.com/dartarcade/arcade"
     source: git
     version: "0.1.1"
   arcade_config:
@@ -146,6 +146,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.0.3"
+  cli_util:
+    dependency: "direct main"
+    description:
+      name: cli_util
+      sha256: b8db3080e59b2503ca9e7922c3df2072cf13992354d5e944074ffa836fba43b7
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.4.0"
   code_builder:
     dependency: transitive
     description:

@@ -26,7 +26,7 @@
         <entry key="arcade">
           <value>
             <list>
-              <option value="$USER_HOME$/AppData/Local/Pub/Cache/git/arcade-b4400d9cc16a675f5616e2ffc6022f6703ed1ba0/packages/arcade/lib" />
+              <option value="$USER_HOME$/AppData/Local/Pub/Cache/git/arcade-f41d227b9370c948569ceec29cf932a1a843bf92/packages/arcade/lib" />
             </list>
           </value>
         </entry>
@@ -125,6 +125,13 @@
           <value>
             <list>
               <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/checked_yaml-2.0.3/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="cli_util">
+          <value>
+            <list>
+              <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/cli_util-0.4.0/lib" />
             </list>
           </value>
         </entry>
@@ -516,7 +523,7 @@
       </option>
     </properties>
     <CLASSES>
-      <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/git/arcade-b4400d9cc16a675f5616e2ffc6022f6703ed1ba0/packages/arcade/lib" />
+      <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/git/arcade-f41d227b9370c948569ceec29cf932a1a843bf92/packages/arcade/lib" />
       <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/_fe_analyzer_shared-64.0.0/lib" />
       <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/analyzer-6.2.0/lib" />
       <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/ansi_styles-0.3.2+1/lib" />
@@ -534,6 +541,7 @@
       <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/built_collection-5.1.1/lib" />
       <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/built_value-8.6.3/lib" />
       <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/checked_yaml-2.0.3/lib" />
+      <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/cli_util-0.4.0/lib" />
       <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/code_builder-4.7.0/lib" />
       <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/collection-1.18.0/lib" />
       <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/convert-3.1.1/lib" />
